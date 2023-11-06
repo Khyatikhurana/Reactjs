@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Footer = () => {
+const Todo = () => {
   return (
     <div>
-      footer works
+      TodoItem works
     </div>
   )
 }
 
-export default Footer
+export default Todo
